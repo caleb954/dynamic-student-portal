@@ -1,1 +1,0 @@
-# dynamic-student-portal
